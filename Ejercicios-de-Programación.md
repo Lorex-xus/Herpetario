@@ -25,3 +25,5 @@ Representa en código la siguiente expresión:
 Representa en código la siguiente expresión:
 
 `[0, 5) ∪ (5, 10]`
+
+    h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
