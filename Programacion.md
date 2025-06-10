@@ -4,15 +4,7 @@ Python es un lenguaje de programación de alto nivel, con una sintaxis simple y 
 
 Las aplicaciones de Python son muy bastas y muy variadas gracias a la cantidad de librerías y repositorios de la comunidad.
 
-
 **Por ejemplo:** *Desarrollo Web, Data Science, Bioinformática, Procesamiento de Imágenes, etc.*
-
----
-
-![imagen](../images/img2.jpg){thumbnail="true"}
-{ width=450 height=300}{style="block"}
-
-<sub>Figura 2. Demanda de lenguajes de programación | 1er Trimestre de 2024</sub>
 
 Dicha facilidad y posibilidad de aplicaciones, han convertido a Python es un lenguaje de programación muy popular.
 
